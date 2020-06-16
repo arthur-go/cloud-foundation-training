@@ -38,6 +38,6 @@ provider "google" {
  * Reference - https://github.com/terraform-google-modules/terraform-google-iam
  *
  */
-module "project_iam_bindings" {
+module "projects_iam_bindings" {
 
 }
